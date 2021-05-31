@@ -19,6 +19,6 @@ public class LinkTest {
                 .build();
 
 
-        assertThat(uriComponents.getPath()).isEqualTo("link");
+        assertThat(uriComponents.getPath()).isEqualTo("docs");
     }
 }
